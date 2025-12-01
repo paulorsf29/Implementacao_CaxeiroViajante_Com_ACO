@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/paulorsf29/Implementacao_IA_Evolutiva/image?font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Implementacao_IA_Evolutiva" width="640" height="320" /> 
+
 # Implementação de IA Evolutiva: ACO para o Problema do Caixeiro Viajante (TSP)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
