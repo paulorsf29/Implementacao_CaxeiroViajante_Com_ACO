@@ -27,7 +27,7 @@ O objetivo é encontrar a menor rota possível que passe por todas as cidades ex
 ✅ Melhor desempenho encontrado com **36 cidades**, superando o GLPK em **-7,70%**  
 ✅ O método **ACO + 2-Opt** mostrou excelente eficiência em instâncias maiores  
 
-Resultado detalhado
+# Resultado detalhado
 
 <img width="566" height="155" alt="image" src="https://github.com/user-attachments/assets/db52139c-5b17-48b3-ac22-645ef197ac47" /> 
 
